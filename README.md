@@ -99,11 +99,13 @@ npm run preview
 
 The production build can be deployed to a static hosting platform that supports Vite applications, such as:
 
-- [Vercel](https://vercel.com/)
+- [Vercel](https://vercel.com/)   
 - [Netlify](https://www.netlify.com/)
 - [GitHub Pages](https://pages.github.com/)
 
 Configure the deployment settings according to the hosting platform and project structure.
+
+vercel deployment link: https://e-shop-smoky-nine.vercel.app/
 
 ## 👩‍💻 Author
 
